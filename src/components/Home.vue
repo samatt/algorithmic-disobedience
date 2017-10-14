@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="header">
-      <h1> Algorithmic Disobedience</h1>
-      <h4> A workshop by Tega Brain & Surya Mattu</h4>
+      <h1 class="title"> Algorithmic Disobedience</h1>
+      <h4 class="subtitle"> A workshop by Tega Brain & Surya Mattu</h4>
     </div>
     <div class="container">
       <div class="section">
@@ -28,10 +28,7 @@
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       </p>
     </div>
-    <div class="section">
-    <!--   <h2> See a list of <router-link :to="{ path: 'Tactics'}" > Tactics </router-link></h2> -->
     <Tactics/>
-    </div>
     </div>
   </div>
 </template>
@@ -50,7 +47,5 @@ export default {
 </script>
 
 <style lang="scss">
-.section {
-  margin-top: 2px;
-}
+
 </style>

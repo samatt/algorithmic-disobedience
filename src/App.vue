@@ -11,31 +11,47 @@ export default {
 </script>
 
 <style lang="scss">
+$green: rgb(224,247,72);
+$pink: rgb(238,110,82);
+$blue: rgb(182,230,235);
+$dark-blue: rgb(62,62,81);
+
+h1, h2, h3, h4 {
+  color: $blue;
+}
+
 body {
-  background-color: rgb(62,62,81);
-  color: rgb(182,230,235);
+  background-color: $dark-blue;
+  color: white;
   @import url('https://fonts.googleapis.com/css?family=Inconsolata');
   font-family: 'Inconsolata', monospace;
-  text-align: center;
-
-  $pink: rgb(238,110,82);
 }
 
 a {
-  background-color: rgb(224,247,72);
-  color: rgb(62,62,81);
+  color: $pink;
 }
-em {
-  color: rgb(238,110,82);
+.header {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 0px;
+}
+.subtitle {
+  margin-top: 5px;
+  color: white;
 }
 
 .container {
   display: flex;
   align-items: center;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
-
+.section {
+  margin-top: 2px;
+  max-width: 650px;
+}
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

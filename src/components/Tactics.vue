@@ -1,20 +1,15 @@
 <template>
-  <div>
-    <div class="header">
-      <h1> Tactics</h1>
-    </div>
-    <div class="container">
-      <div v-for="tactic in content.tactics" class="section">
-        <h2> {{tactic.title}} </h2>
-        <h3> {{tactic.subtitle}} </h3>
+  <div class="section">
+      <h1 > Tactics</h1>
+      <div class="tactic" v-for="tactic in content.tactics">
+        <h2 class="title"> {{tactic.title}} </h2>
+        <h3 class="subtitle"> {{tactic.subtitle}} </h3>
         <div v-for="project in tactic.projects" class="projects">
             <div>
-              <a :href="project.url"> {{project.name}} </a>
-              <span>{{project.artist}} </span>
+              <a :href="project.url"> {{project.name}}</a> - <span>{{project.artist}} </span>
             </div>
         </div>
       </div>
-    </div>
   </div>
 </template>
 
@@ -31,5 +26,12 @@ export default {
 };
 </script>
 
-<style lang="css" scoped>
+<style lang="scss">
+.tactic{
+  margin-top: 60px;
+}
+
+.projects{
+  margin-top: 8px;
+}
 </style>
