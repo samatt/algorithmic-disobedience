@@ -10,11 +10,7 @@
           What is disobedience in a world shaped by algorithms?
         </h2>
         <p>
-          Algorithmic disobedience calls for action in a world shaped by data and structured by algorithms.
-          Algorithmic systems influence what news we see, who we date and how our neighbourhoods are policed.
-          If human behavior is no longer seen as an individual’s response to their situation but instead as pattern and probability,
-          what possibilities remain for action and resistance?
-          This workshop looks to recent work by artists and journalists for tactics of algorithmic disobedience.
+          Algorithmic disobedience calls for action in a world shaped by data and structured by algorithms. Algorithmic systems influence what news we see, who we date and how our neighbourhoods are policed. If human behavior is no longer seen as an individual’s response to their situation but instead, a product of pattern and probability, what possibilities remain for action and resistance? This workshop looks to recent work by artists and journalists for tactics of algorithmic disobedience.
         </p>
     </div>
     <div class="section">
@@ -23,6 +19,7 @@
       </h2>
       <p>
         We invite the playful, the defiant and the dissatisfied to explore the growing role of these systems in our lives and script small acts of resistance for audit, obfuscation or opting out.
+        <br> Read the <a href="https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing">Algorithmic Disobedience Reader</a>  (5.6MB download)
       </p>
     </div>
     <Tactics/>
