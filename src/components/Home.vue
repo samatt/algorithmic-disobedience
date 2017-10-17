@@ -10,12 +10,11 @@
           What is disobedience in a world shaped by algorithms?
         </h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Algorithmic disobedience calls for action in a world shaped by data and structured by algorithms.
+          Algorithmic systems influence what news we see, who we date and how our neighbourhoods are policed.
+          If human behavior is no longer seen as an individual’s response to their situation but instead as pattern and probability,
+          what possibilities remain for action and resistance?
+          This workshop looks to recent work by artists and journalists for tactics of algorithmic disobedience.
         </p>
     </div>
     <div class="section">
@@ -23,9 +22,7 @@
         Goals of the workshop
       </h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        We invite the playful, the defiant and the dissatisfied to explore the growing role of these systems in our lives and script small acts of resistance for audit, obfuscation or opting out.
       </p>
     </div>
     <Tactics/>
