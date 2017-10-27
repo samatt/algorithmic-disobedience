@@ -10,7 +10,7 @@
           What is disobedience in a world shaped by algorithms?
         </h2>
         <p>
-        What does disobedience look like in systems of algorithmic decision-making? The accumulation of data has become paramount to the ways that power and resources are distributed in our societies. The logic of these systems are built on patterns drawn out of historic datasets, bringing the conditions of the past back to haunt the present. If individuals are legible only as aggregates of data, as products of pattern and probability, how can we push back?  What possibilities exist for action? This workshop looks to recent work by artists and journalists for tactics of algorithmic disobedience.  These are strategies that help us to ask - how do we want these systems to be in our lives?
+        What does disobedience look like in systems driven by data and structured by algorithms? The accumulation of data has become paramount to the ways that power and resources are distributed in our societies. The logic of these systems are built on patterns drawn out of historic datasets, bringing the conditions of the past back to haunt the present. If individuals are legible only as aggregates of data, as products of pattern and probability, how can we push back?  What possibilities exist for action? This workshop looks to recent work by artists and journalists for tactics of algorithmic disobedience.  These are strategies that help us to ask - how do we want these systems to be in our lives?
       </p>
     </div>
     <div class="section">
