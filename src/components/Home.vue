@@ -47,7 +47,7 @@ Upcoming dates:
 <p>
 26th and 28th October: <a href="https://quantifiedselfonline.wordpress.com/events/">The Quantified Self Davies Forum</a>, University of San Fransisco.
 <br><br>
-11th November: <a href="https://theglassroom.org/schedule/events/algorithmic-disobedience-surya-mattu/">The Glass Room</a>, London. 
+11th November: <a href="https://theglassroom.org/schedule/events/algorithmic-disobedience-surya-mattu/">The Glass Room</a>, London.
 </p>
 </div>
 
