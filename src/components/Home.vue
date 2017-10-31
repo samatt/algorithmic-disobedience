@@ -20,7 +20,7 @@ If individuals are legible only as aggregates of data, as products of pattern an
         Goals of the workshop
       </h2>
       <p>
-        We invite the playful, the defiant and the dissatisfied to explore the growing role of these systems in our lives and script small acts of resistance for audit, obfuscation or opting out.
+        We invite the playful, the defiant and the dissatisfied to explore the growing role of these systems in our lives and script small acts of audit, obfuscation or opting out.
         <br><br>
          Read the <a href="https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing">Algorithmic Disobedience Reader</a>  (5.6MB download)
       </p>
