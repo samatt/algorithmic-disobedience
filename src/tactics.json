@@ -1,7 +1,7 @@
 {
     "tactics": [{
-            "title": "Reveal/Expose/Deconstruct",
-            "subtitle": "Reveal/expose an aspect of an algorithmic or automated system.",
+            "title": "Audit/Reveal/Expose",
+            "subtitle": "Audit the workings algorithmic or automated system. Reveal how it works. Who does it advantage/disadvantage?",
             "projects": [{
                     "name": "Workers Leaving the Googleplex",
                     "artist": "Andrew Norman Wilson",
@@ -35,8 +35,38 @@
             ]
         },
         {
+            "title": "Obfuscate",
+            "subtitle": "Tactics for hiding in plain sight. Add noise to your signals. Bury your data. Make it harder to exploit and ultimately less valuable.",
+            "projects": [{
+                    "name": "Ad Nauseum",
+                    "artist": "Daniel C. Howe, Mushon Zer Aviv and Helen Nissenbaum",
+                    "url": "https://adnauseam.io/"
+                },
+                {
+                    "name": "Unfit Bits",
+                    "artist": "Tega Brain and Surya Mattu",
+                    "url": "https://unfitbits.com/"
+                },
+                {
+                    "name": "The Good Life, Email Enron Simulator",
+                    "artist": "Tega Brain and Sam Lavigne",
+                    "url": "https://enron.email/"
+                },
+                {
+                    "name": "Tor Browser",
+                    "artist": "Many",
+                    "url": "https://www.torproject.org/projects/torbrowser.html.en"
+                },
+                {
+                    "name": "Biononymous.me",
+                    "artist": "Heather Dewey-Hagborg",
+                    "url": "http://biononymous.me/"
+                }
+            ]
+        },
+        {
             "title": "Perform",
-            "subtitle": "Perform an algorithm, an automated system or its bias.",
+            "subtitle": "Be the algorithm. Un-automate the system. Perform its bias.",
             "projects": [{
                     "name": "Follower",
                     "artist": "Lauren McCarthy",
@@ -106,7 +136,7 @@
         },
         {
             "title": "Opt Out",
-            "subtitle": "Prompts to encourage non-use, non-production, non-communication or non-partipation.",
+            "subtitle": "Encourage non-use, non-production, non-communication or non-partipation.",
             "projects": [{
                     "name": "How to do nothing",
                     "artist": "Jenny Odell",
@@ -160,38 +190,8 @@
             ]
         },
         {
-            "title": "Obfuscate",
-            "subtitle": "Tactics for hiding in plain sight. Add noise to your signals. Bury your data.",
-            "projects": [{
-                    "name": "Ad Nauseum",
-                    "artist": "Daniel C. Howe, Mushon Zer Aviv and Helen Nissenbaum",
-                    "url": "https://adnauseam.io/"
-                },
-                {
-                    "name": "Unfit Bits",
-                    "artist": "Tega Brain and Surya Mattu",
-                    "url": "https://unfitbits.com/"
-                },
-                {
-                    "name": "The Good Life, Email Enron Simulator",
-                    "artist": "Tega Brain and Sam Lavigne",
-                    "url": "https://enron.email/"
-                },
-                {
-                    "name": "Tor Browser",
-                    "artist": "Many",
-                    "url": "https://www.torproject.org/projects/torbrowser.html.en"
-                },
-                {
-                    "name": "Biononymous.me",
-                    "artist": "Heather Dewey-Hagborg",
-                    "url": "http://biononymous.me/"
-                }
-            ]
-        },
-        {
             "title": "Alternative Infrastructure / Redesign",
-            "subtitle": "Projects that redesign, reimagine, rethink and build infrastructures that embody alternative politics.",
+            "subtitle": "Redesign, reimagine, rethink and build infrastructures. How might they embody an alternative politics?",
             "projects": [{
                     "name": "Harvest",
                     "artist": "Julian Oliver",

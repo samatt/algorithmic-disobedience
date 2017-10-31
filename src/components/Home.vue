@@ -2,7 +2,7 @@
   <div>
     <div class="header">
       <h1 class="title"> Algorithmic Disobedience</h1>
-      <h4 class="subtitle"> A workshop by Tega Brain & Surya Mattu</h4>
+      <h4 class="subtitle"> A workshop by <a href="http://www.tegabrain.com/">Tega Brain</a> & <a href="<a href="http://www.suryamattu.com/">Surya Mattu</a></h4>
     </div>
     <div class="container">
       <div class="section">
@@ -10,7 +10,7 @@
           What is disobedience in a world shaped by algorithms?
         </h2>
         <p>
-          Algorithmic disobedience calls for action in a world shaped by data and structured by algorithms. Algorithmic systems influence what news we see, who we date and how our neighbourhoods are policed. If human behavior is no longer seen as an individual’s response to their situation but instead, a product of pattern and probability, what possibilities remain for action and resistance? This workshop looks to recent work by artists and journalists for tactics of algorithmic disobedience.
+Algorithmic disobedience calls for action in a world shaped by data and structured by algorithms. Algorithmic systems influence what news we see, how our neighborhoods are policed and our access to credit and insurance. The accumulation of data has become paramount to the ways that power and resources are distributed and yet the logic of these systems are built on patterns drawn out of historic datasets, bringing the conditions of the past back to haunt the present. If individuals are legible only as aggregates of data, as products of pattern and probability, how can we push back?  What are strategies that help us ask how we want these systems to be in our lives? This workshop looks to recent work by artists and journalists for tactics of algorithmic disobedience. 
         </p>
     </div>
     <div class="section">
@@ -23,6 +23,15 @@
          Read the <a href="https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing">Algorithmic Disobedience Reader</a>  (5.6MB download)
       </p>
     </div>
+    <h2>
+      Upcoming dates:
+    </h2>
+    <p>
+    26th and 28th October: <a href="https://quantifiedselfonline.wordpress.com/events/">The Quantified Self Davies Forum, University of San Fransisco.</a>
+      <br><br>
+      11th November: <a href="https://theglassroom.org/schedule/events/algorithmic-disobedience-surya-mattu/">The Glass Room, London. </a>
+    </p>
+  </div>
     <Tactics/>
     </div>
   </div>
