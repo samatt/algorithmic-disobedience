@@ -38,17 +38,17 @@
                 "subtitle": "Audit an algorithm. What does it count? What can it see or not see?",
                 "projects": [{
                   "name": "Machine Bias",
-                  "journalist": "Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner",
+                  "artist": "Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner",
                   "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
                 },
                 {
                   "name": "Invisible Infrastructure series",
-                  "researcher": "Share Lab",
+                  "artist": "Share Lab",
                   "url": "https://labs.rs/en/category/invisible-infrastructures/"
                 },
                 {
                   "name": "STD(ata): non-consensual data transmission on dating apps",
-                  "researcher": "Chupadados",
+                  "artist": "Chupadados",
                   "url": "https://chupadados.codingrights.org/en/suruba-de-dados/"
                 }
 
