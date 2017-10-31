@@ -23,6 +23,16 @@ Algorithmic disobedience calls for action in a world shaped by data and structur
          Read the <a href="https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing">Algorithmic Disobedience Reader</a>  (5.6MB download)
       </p>
     </div>
+    <div class="section">
+    <h2>
+    Upcoming dates:
+    </h2>
+    <p>
+    26th and 28th October: <a href="https://quantifiedselfonline.wordpress.com/events/">The Quantified Self Davies Forum</a>, University of San Fransisco.
+    <br><br>
+    11th November: <a href="https://theglassroom.org/schedule/events/algorithmic-disobedience-surya-mattu/">The Glass Room</a>, London.
+    </p>
+    </div>
     <Tactics/>
     </div>
   </div>
@@ -40,18 +50,9 @@ export default {
   },
 };
 </script>
-  <div class="container">
-<div class="section">
-<h2>
-Upcoming dates:
-</h2>
-<p>
-26th and 28th October: <a href="https://quantifiedselfonline.wordpress.com/events/">The Quantified Self Davies Forum</a>, University of San Fransisco.
-<br><br>
-11th November: <a href="https://theglassroom.org/schedule/events/algorithmic-disobedience-surya-mattu/">The Glass Room</a>, London.
-</p>
-</div>
-</div>
+
+
+
 <style lang="scss">
 
 </style>
