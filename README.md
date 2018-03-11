@@ -2,6 +2,19 @@
 
 > A workshop on algorithmic disobedience by Tega Brain and Surya Mattu.
 
+## To Deploy
+```
+# build the minifed version. this will update the docs folder where the site is served from
+npm run deploy
+
+#commit the docs folder
+git add docs
+git commit -m 'ready for deploy'
+git push origin master 
+
+#that should be it
+```
+
 ## Build Setup
 
 ``` bash
