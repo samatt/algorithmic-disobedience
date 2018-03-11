@@ -34,6 +34,8 @@ If individuals are legible only as aggregates of data, as products of pattern an
   <ul>
   <li>26th and 28th October: <a href="https://quantifiedselfonline.wordpress.com/events/">The Quantified Self Davies Forum</a>, University of San Fransisco.</li>
 <li>11th November: <a href="https://theglassroom.org/schedule/events/algorithmic-disobedience-surya-mattu/">The Glass Room</a>, London.</li>
+<li>10th and 17th March: <a href="http://fm.hunter.cuny.edu/art-activism-and-algorithms-aesthetic-interventions-in-machine-bias/">Hunter College</a>, New York City.</li>
+
 </ul>
     </p>
     </div>

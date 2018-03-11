@@ -50,6 +50,16 @@
                   "name": "STD(ata): non-consensual data transmission on dating apps",
                   "artist": "Chupadados",
                   "url": "https://chupadados.codingrights.org/en/suruba-de-dados/"
+                },
+                {
+                  "name": "There's no such thing as a free watch",
+                  "artist": "Jenny Odell",
+                  "url": "http://www.jennyodell.com/free-watch.html"
+                },
+                {
+                  "name": "Your Smart Home Is Spying on You. Here’s How to Spy Back.",
+                  "artist": "Surya Mattu",
+                  "url": "https://fieldguide.gizmodo.com/your-smart-home-is-spying-on-you-here-s-how-to-spy-bac-1822939698"
                 }
 
                 ]
@@ -81,6 +91,11 @@
                     "name": "Biononymous.me",
                     "artist": "Heather Dewey-Hagborg",
                     "url": "http://biononymous.me/"
+                },
+                {
+                    "name": "Hyperface",
+                    "artist": "Hyphen Labs and Adam Harvey",
+                    "url": "https://ahprojects.com/projects/hyperface/"
                 }
             ]
         },
@@ -135,7 +150,7 @@
                 {
                     "name": "Dronestream",
                     "artist": "Josh Begley",
-                    "url": "https://twitter.com/dronestream?lang=en"
+                    "url": "https://dronestre.am/"
                 },
                 {
                     "name": "Material Speculations",
@@ -151,6 +166,11 @@
                     "name": "DEFOOOOOOOOOOOOOOOOOOOOOREST",
                     "artist": "Joana Moll",
                     "url": "http://www.janavirgin.com/CO2/DEFOOOOOOOOOOOOOOOOOOOOOREST_about.html"
+                },
+                {
+                    "name": "A SURVEY OF ICE PROPAGANDA VIDEOS",
+                    "artist": "Sam Lavigne",
+                    "url": "http://lav.io/ice/"
                 }
             ]
         },
@@ -241,6 +261,11 @@
                     "name": "Log Jammer",
                     "artist": "Allison Burtch",
                     "url": "http://www.allisonburtch.net/log-jammer/"
+                },
+                {
+                    "name": "A Month Without a Fork",
+                    "artist": "Darius Kazemi",
+                    "url": "http://fork-free.tumblr.com/"
                 }
             ]
         }
