@@ -1,6 +1,6 @@
 # algorithmic-disobedience
 
-> A workshop on algorithmic disobedience 
+> A workshop on algorithmic disobedience by Tega Brain and Surya Mattu.
 
 ## Build Setup
 
