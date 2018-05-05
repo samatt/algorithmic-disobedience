@@ -213,6 +213,11 @@
             "title": "Redesign",
             "subtitle": "Redesign, reimagine, rethink and build infrastructures. How might they embody an alternative politics?",
             "projects": [{
+                  "name": "Dead Drops",
+                  "artist": "Aram Bartholl",
+                  "url": "http://deaddrops.com/"
+                },
+                {
                     "name": "Harvest",
                     "artist": "Julian Oliver",
                     "url": "https://julianoliver.com/output/harvest"
@@ -221,11 +226,6 @@
                     "name": "Occupy.Here",
                     "artist": "Dan Phiffer",
                     "url": "https://occupyhere.org/"
-                },
-                {
-                    "name": "3v/5v/12v",
-                    "artist": "Aram Bartholl",
-                    "url": "https://arambartholl.com/blog/3v-5v-12v/"
                 },
                 {
                     "name": "Being Radiotropic",
